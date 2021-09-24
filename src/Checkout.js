@@ -10,7 +10,7 @@ function Checkout() {
         <img
           className="checkout_ad"
           src={
-            "https://blog.hubspot.com/hubfs/How%20to%20Explain%20Banner%20Ads%20to%20Anyone-5.png"
+            "/Users/ajeir/jamgrow-c/src/images/Jam.png"
           }
           alt=""
         />

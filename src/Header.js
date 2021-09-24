@@ -18,7 +18,7 @@ function Header() {
 
                 <Link to="/">
                 <img  className="header_logo"
-                src={img} 
+                src={"/Users/ajeir/jamgrow-c/src/images/Jam.png"} 
                  alt="j" 
                 />
             
@@ -39,7 +39,7 @@ function Header() {
                 <div className='header_option'>
                     <span 
                     className='header_optionLineOne'>
-                        Welcome to J school online
+                        Welcome to JamGrow
                     </span>
 
                     <span 

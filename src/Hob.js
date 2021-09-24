@@ -9,12 +9,12 @@ function Hob() {
         <div className="hob">
              <div className="hob_container">
                  <img className="hob_image"
-                    src="https://scholarshipjamaica.com/wp-content/uploads/2017/05/University-of-Technology-Teachers-Scholarship.jpg"
+                    src="https://images.pexels.com/photos/6509144/pexels-photo-6509144.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6509144.jpg&fm=jpg"
                     alt="farming banner"
                     />
                    
                     <div className="welcome_text">
-                    <h1> <b>Welcome J schooler !</b></h1>
+                    <h1> <b>Welcome J shopper !</b></h1>
                        </div>
 
                 
@@ -22,57 +22,57 @@ function Hob() {
                     
                     <Product
                     id={122445}
-                    title ='shirt1' 
+                    title ='Apples' 
                     price = {200.00}
-                    image = 'https://assets.burberry.com/is/image/Burberryltd/ef04b04c270641f91d110c370f7c99583b871626.jpg?$BBY_V2_SL_1x1$&wid=2500&hei=2500'
+                    image = 'https://images.pexels.com/photos/7333131/pexels-photo-7333131.jpeg?cs=srgb&dl=pexels-evgeniy-alekseyev-7333131.jpg&fm=jpg'
                     rating = {'5'} />
 
                     
                     <Product
                     id={125945}
-                    title ='Shirt2' 
+                    title ='Mangos' 
                     price = {200.00}
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg'
+                    image = 'https://images.pexels.com/photos/5629820/pexels-photo-5629820.jpeg?cs=srgb&dl=pexels-morris-lowery-jr-5629820.jpg&fm=jpg'
                     rating = {'5'} />
 
                 </div>
 
-                <div className="shirt">
+                <div className="hob_row">
                     <Product 
                     id={127485}
-                    title ='shirt4' 
+                    title ='Grapes' 
                     price = {100.00}
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg'
+                    image = 'https://images.pexels.com/photos/23042/pexels-photo.jpg?cs=srgb&dl=pexels-bruno-scramgnon-23042.jpg&fm=jpg'
                     rating = {'5'}/>
                     
                     <Product
                     id={128245}
-                    title ='shirt5' 
+                    title ='Oranges' 
                     price = {50.00}
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg'
+                    image = 'https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?cs=srgb&dl=pexels-pixabay-51958.jpg&fm=jpg'
                     rating = {'5'} />
                     
                     <Product 
                     id={120425}
-                    title ='shirt6' 
+                    title ='Bananas' 
                     price = {90.00}
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg'
+                    image = 'https://images.pexels.com/photos/4114117/pexels-photo-4114117.jpeg?cs=srgb&dl=pexels-alleksana-4114117.jpg&fm=jpg'
                     rating = {'5'}/>
                 </div>
 
-                <div className="shirt7">
+                <div className="hob_row">
                     <Product
                     id={121745}
-                    title ='shirt 8' 
+                    title ='Avocado' 
                     price = {200.00}
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg'
+                    image = 'https://images.pexels.com/photos/2095924/pexels-photo-2095924.jpeg?cs=srgb&dl=pexels-dominika-roseclay-2095924.jpg&fm=jpg'
                     rating = {'5'} />
                     
                     <Product 
                     id={123435}
-                    title ='shirt9' 
+                    title ='Strawberry' 
                     price = {70.00} 
-                    image = 'https://s7d9.scene7.com/is/image/Chaps/medium/6812008930308072_001.jpg' 
+                    image = 'https://images.pexels.com/photos/4397050/pexels-photo-4397050.jpeg?cs=srgb&dl=pexels-anthony-shkraba-4397050.jpg&fm=jpg' 
                     rating = {'5'}
                     />
 
